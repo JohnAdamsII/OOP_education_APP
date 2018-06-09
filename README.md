@@ -6,13 +6,13 @@ All information about how to use the program can be found in the report file.
 Here is a list of some of the features
 
 
-Authentication 
-Display Student Scores
-Change Password
-Display Exam Scores:
-Display Student Average
-Display Exam Average
-Insert Scores for All Students
-Insert New Student Scores
-Update a Single Score
+Authentication, 
+Display Student Scores,
+Change Password,
+Display Exam Scores,
+Display Student Average,
+Display Exam Average,
+Insert Scores for All Students,
+Insert New Student Scores,
+Update a Single Score,
 Change All Exam Scores
